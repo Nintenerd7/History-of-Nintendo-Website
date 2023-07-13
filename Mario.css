@@ -1,0 +1,37 @@
+#banner {
+  display: block;
+}
+
+.images {
+  display: inline-block;
+  max-width: 27%;
+  margin: 0 2.5%;
+}
+
+ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+      body {
+        color:white;
+          background-color:
+        #D50000
+      }
+      
+         #text {
+    background-color:#ff7f7f;
+}
+
+.block {
+    
+   background-color:red; 
+    
+}
+li{
+    color:white;
+    
+    
+}
+
+p{
+    font-size:10px;
+    color:white;
+}
+
